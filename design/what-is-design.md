@@ -1,6 +1,4 @@
-Dieter Rams: ten principles for good design
-
-[https://www.vitsoe.com/gb/about/good-design]
+[Dieter Rams: ten principles for good design](https://www.vitsoe.com/gb/about/good-design)
 
 * Good design is innovative
 * Good design makes a product useful
