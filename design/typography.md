@@ -10,3 +10,5 @@
 * &minus and &times for math symbols
 * Ellipses
 * Ligatures
+
+## [Thinking with Type](http://www.thinkingwithtype.com/)
