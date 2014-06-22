@@ -28,8 +28,6 @@ dict[@"key"] = value;
 
 #### Navigating Implementation Files
 
-#pragma mark
-
 ```objc
 #pragma mark - View life cycle
 - (void)viewDidLoad {...}
