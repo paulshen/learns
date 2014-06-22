@@ -24,6 +24,7 @@ dict[@"key"] = value;
 
 * `NSUUID` for item keys
 * `UITextFieldDelegate`: `- (BOOL)textFieldShouldReturn:(UITextField *)textField`
+* change XIB view to class `UIControl` for target-action behavior
 * `UIView`: `- (BOOL)endEditing:(BOOL)force`
 
 #### Navigating Implementation Files
