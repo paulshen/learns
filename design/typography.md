@@ -12,3 +12,5 @@
 * Ligatures
 
 ## [Thinking with Type](http://www.thinkingwithtype.com/)
+
+## [Upping Your Type Game](http://jessicahische.is/talkingtype)
